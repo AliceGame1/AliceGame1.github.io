@@ -54,7 +54,7 @@ collections:
 # SNS settings
 sns:
   RSS: false
-  github_username: Alice Lab
+  github_username: AliceGame1
   weibo_username:
   zhihu_username:
   twitter_username:
