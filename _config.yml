@@ -3,13 +3,13 @@ title: Alice Lab
 SEOTitle: Alice Lab
 description: Alice Lab是一个致力于AI的研究组织
 keyword: "formalization"
-url: "https://alicegame1.github.io"      # your host, for absolute URL
+url: "https://github.com/AliceLabWorks"      # your host, for absolute URL
 baseurl: ""                                         # for example, '/blog' if your blog hosted on 'host/blog'
 avatar: "img/avatar.jpg"                            # the avatar showing on the homepage
 
 
 # GitHub repository (if the site is hosted by GitHub)
-repository: AliceGame1/alicegame1.github.io
+repository: AliceLabWorks/alicelabworks.github.io
 repository_branch: master
 
 
@@ -54,7 +54,7 @@ collections:
 # SNS settings
 sns:
   RSS: false
-  github_username: AliceGame1
+  github_username: AliceLabWorks
   weibo_username:
   zhihu_username:
   twitter_username:
