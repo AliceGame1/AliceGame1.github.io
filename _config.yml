@@ -1,16 +1,16 @@
 # Site settings
-title: Ciel's Paperplane
-SEOTitle: Ciel's Paperplane
+title: AliceLab
+SEOTitle: AliceLab
 description: 如果您发现什么地方描述有误，请在 github issue 上提出
 keyword: "cpp"
-url: "https://namespaceciel.github.io"      # your host, for absolute URL
+url: "https://alicegame1.github.io"      # your host, for absolute URL
 baseurl: ""                                         # for example, '/blog' if your blog hosted on 'host/blog'
 avatar: "img/avatar.png"                            # the avatar showing on the homepage
 
 
 # GitHub repository (if the site is hosted by GitHub)
-repository: namespaceciel/namespaceciel.github.io
-repository_branch: main
+repository: AliceGame1/alicegame1.github.io
+repository_branch: master
 
 
 # Theme style settings
