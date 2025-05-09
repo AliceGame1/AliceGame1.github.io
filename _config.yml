@@ -1,8 +1,8 @@
 # Site settings
-title: AliceLab
-SEOTitle: AliceLab
-description: 如果您发现什么地方描述有误，请在 github issue 上提出
-keyword: "cpp"
+title: Alice Lab
+SEOTitle: Alice Lab
+description: Alice Lab是一个致力于AI的研究组织
+keyword: "formalization"
 url: "https://alicegame1.github.io"      # your host, for absolute URL
 baseurl: ""                                         # for example, '/blog' if your blog hosted on 'host/blog'
 avatar: "img/avatar.png"                            # the avatar showing on the homepage
@@ -54,13 +54,13 @@ collections:
 # SNS settings
 sns:
   RSS: false
-  github_username: namespaceciel
+  github_username: Alice Lab
   weibo_username:
   zhihu_username:
   twitter_username:
   facebook_username:
   linkedin_username:
-  email_address: createdbycrt@gmail.com
+  email_address: 1924152407@qq.com
 
 
 # Build settings
